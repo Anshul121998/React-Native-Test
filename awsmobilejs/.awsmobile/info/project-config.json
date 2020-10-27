@@ -1,0 +1,6 @@
+{
+	"SourceDir": "desktop/SampleApp",
+	"DistributionDir": "desktop/SampleApp",
+	"BuildCommand": "npm build",
+	"StartCommand": "npm run"
+}
